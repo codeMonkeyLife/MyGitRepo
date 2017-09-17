@@ -11,3 +11,4 @@ modified in master branch fourth
 modified in dev branch and fifth
 add a new line
 add a new line in dev branch
+add a new new line in dev branch too
